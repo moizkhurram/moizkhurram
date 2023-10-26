@@ -1,6 +1,4 @@
-<!-- <h1 align="center" src="">Hi 👋, I'm Shehryaar 👨‍💻 </h1> -->
-<h1 align="center">&nbsp;<img style="background-color:black" align="center" src="(https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+I+am+Moiz+Khurram+)](https://git.io/typing-svg)" alt="1ogicbr0" /></h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+I+am+Moiz+Khurram+" alt="Typing SVG" /></a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moiz-khurram-889a89147/) 
 
