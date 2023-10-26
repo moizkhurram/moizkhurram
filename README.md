@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an expert python programmer and cyber security expert. I have problem solving and critical thinking abilities.<br>Being self-taught programmer, I've worked on many projects and have coding experience in different languages.<br>I've helped many people in solving their programming problems, data structures and algorithm designs. I can work<br>on python GUI, Automation Scripts, Web Scraping, Web Crawling, Data Analysis, Tool Building with python (cross<br>platform : linux, windows, MAC), Backend development with python. I have also working experience with diffrent<br>python frameworks such as Flask, Django.
+<h1 align="center">
+  &nbsp;<img style="background-color:black" align="center" src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=31&duration=4000&pause=1000&color=190CCD&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=++Hi+%F0%9F%91%8B, I am Moiz Khurram+;From Air University, Pakistan" alt="YourUsername" />
+</h1>
 
 
 ## 🌐 Socials:
