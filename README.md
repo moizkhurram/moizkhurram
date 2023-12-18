@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Maps&weight=900&size=27&duration=4992&pause=1000&color=258DFF&center=true&random=false&width=435&height=100&lines=Hi+%F0%9F%91%8B%2C+I+am+Moiz+Khurram" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=900&size=27&duration=4992&pause=1000&color=258DFF&center=true&vCenter=true&random=false&width=500&height=100&lines=HI+%F0%9F%91%8B%2C+I+AM+MOIZ+KHURRAM+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moiz-khurram-889a89147/) 
 
